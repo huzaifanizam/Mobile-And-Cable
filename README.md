@@ -1,26 +1,26 @@
-## "Web View"
+## "Web View :heart:  :star:."
 <img src="./img/1.web.png" alt="GitHUB" align="center" >
 <img src="./img/2.web.png" alt="GitHUB" align="center" >
 <img src="./img/3.web.png" alt="GitHUB" align="center" >
 
-## "Mobile View"
+## "Mobile View :heart:  :star:."
 <img src="./img/responsive.png" alt="GitHUB" align="center" >
 <img src="./img/responsive.2.png" alt="GitHUB" align="center" >
 
 
-# Getting Started with QR Code Generator
+# Getting Started with Mobile And Cable App
 
-<a href="https://huzaifanizam.github.io/Mobile-And-Cable/">QR Code Generator</a>
+<a href="https://huzaifanizam.github.io/Mobile-And-Cable/">Mobile And Cable App</a>
 
 
-### " QR Code Generator using HTML, CSS &amp; JavaScript"
+### " Mobile And Cable App using HTML, CSS &amp; JavaScript"
 
 
 Overview of practice
 
-It's a  QR Code Generator App made by using HTML, CSS &amp; JavaScript.
+It's a  Mobile And Cable App App made by using HTML, CSS &amp; JavaScript.
 
-The QR Code Generator app is created by [Huzaifa Nizam](https://www.linkedin.com/in/huzaifa-nizam-741631264) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+The Mobile And Cable App app is created by [Huzaifa Nizam](https://www.linkedin.com/in/huzaifa-nizam-741631264) 
 
 ## Show some :heart: and :star: the repo if you like the design.
 
