@@ -1,0 +1,189 @@
+#trapezoid {
+    border-bottom: 460px solid #66B2ff;
+    /* border-Top: 180px solid transparent; */
+    border-left: 160px solid transparent;
+    border-right: 160px solid transparent;
+    height: 70px;
+    width: 170px;
+  }
+
+
+  body{
+    background-color: #F7F8FA;
+    padding: 0;
+    margin:0;
+  } 
+  
+  .clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0 !important;
+    height: 0;
+  }
+  .container{
+    position: relative;
+    margin: 15% auto 0 auto;
+    width: 425px;  
+  }
+  .pr{
+    position: relative;
+  }
+  .pa{
+    position: absolute;
+  }
+  .ftl{
+    float: left;
+  }
+  .cord1{
+    margin-right: 100px;
+    margin-top: 76px;
+  }
+  .cord1 .wire{
+    border-left: 4px solid #47525D;
+    border-right: 4px solid #47525D;
+    width: 15px;
+    height: 200px;
+  }
+  .cord1 .cord_bottom{
+    height: 35px;
+    width: 25px;
+    border-left: 4px solid #47525D;
+    border-right: 4px solid #47525D;
+    border-bottom: 4px solid #47525D;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-left: -5px;
+  }
+  .cord1 .cord_middle{
+    height: 70px;
+    width: 45px;
+    border: 4px solid #47525D;
+    border-bottom: 4px solid #47525D;
+    border-radius: 5px;
+    margin-left: -15px;
+  }
+  .cord1 .cord_middle .smile .eye1{
+    height: 7px;
+    width: 7px;
+    background-color: #47525D;
+    border-radius: 50%;
+    left: 10px;
+    top: 15px;
+  }
+  .cord1 .cord_middle .smile .eye2{
+    height: 7px;
+    width: 7px;
+    background-color: #47525D;
+    border-radius: 50%;
+    right: 10px;
+    top: 15px;
+  }
+  .cord1 .cord_middle .smile .mouth{
+    width: 13px;
+    height: 7px;
+    top: 30px;
+    left: 16px;
+    background-color: #fff;
+    border: 3px solid #47525D;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    transition: ease 0.1s;
+  }
+  .cord1:hover .cord_middle .smile .mouth{
+    border-bottom-left-radius: 17px;
+    border-left: 3px solid #47525D;
+    border-bottom-right-radius: 17px;
+    border-right: 3px solid #47525D;
+    left: 13px;
+  }
+  .cord1 .cord_top{
+    background-color: #DADCDF;
+    height: 30px;
+    width: 30px;
+    border-left: 4px solid #47525D;
+    border-right: 4px solid #47525D;
+    border-top: 4px solid #47525D;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: -8px;
+  }
+  .cord1 .cord_top .jack{
+    border: 2px solid #B0B5BA;
+    background-color: #fff;
+    position: absolute;
+    left: 10px;
+    width: 10px;
+    height: 4px;
+    border-radius: 3px;
+    top: 7px;
+  }
+
+  
+/* light */
+
+  #torchLight {
+	width:300px;
+	height:100px;
+	top:50%;
+	left:50%;
+	margin:-50px 0 0 -150px;
+	font-size:0;
+	position:absolute;
+    }
+
+#torchLight div {
+	background:rgb(60,60,60);
+	margin:0;
+	position:relative;
+	display:inline-block;
+}
+
+#torchLight div:nth-child(1) {
+	width:50px;
+	height:100px;
+	border-radius:6px 0 0 6px;
+	box-shadow:inset 5px 0 0 rgb(80,80,80),inset 6px 0 0 rgb(50,50,50),inset -3px 0 0 rgb(80,80,80),inset 0 -10px rgb(80,80,80),inset 0 -15px rgb(60,60,60),inset 0 -20px rgb(80,80,80);
+}
+
+#torchLight div:nth-child(2) {
+	background:none;
+	width:0;
+	height:70px;
+	border:15px solid transparent;
+	border-right:0;
+	border-left:30px solid rgb(60,60,60);
+}
+
+#torchLight div:nth-child(3) {
+	width:220px;
+	height:70px;
+	top:-15px;
+	border-radius:0 6px 6px 0;
+	box-shadow:inset 3px 0 0 rgb(80,80,80),inset -5px 0 0 rgb(80,80,80),inset -6px 0 0 rgb(50,50,50),inset 0 -10px rgb(80,80,80),inset 0 -15px rgb(60,60,60),inset 0 -20px rgb(80,80,80);
+}
+
+#torchLight div:nth-child(4) {
+	background:rgb(50,50,50);
+	width:50px;
+	height:5px;
+	top:-87px;
+	left:100px;
+	border:1px solid rgb(70,70,70);
+	border-top:none;
+	border-radius:0 0 3px 3px;
+}
+
+#torchLight div:nth-child(5) {
+	background:rgb(20,20,20);
+	width:28px;
+	height:7px;
+	top:-90px;
+	left:51px;
+	border:1px solid rgb(50,50,50);
+	border-bottom:none;
+	border-radius:4px 4px 1px 1px;
+	transition:0.2s;
+}
