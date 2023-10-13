@@ -1,9 +1,9 @@
-## "Web View :heart:  :star:."
+## "Web View  :star:."
 <img src="./img/1.web.png" alt="GitHUB" align="center" >
 <img src="./img/2.web.png" alt="GitHUB" align="center" >
 <img src="./img/3.web.png" alt="GitHUB" align="center" >
 
-## "Mobile View :heart:  :star:."
+## "Mobile View :heart:  ."
 <img src="./img/responsive.png" alt="GitHUB" align="center" >
 <img src="./img/responsive.2.png" alt="GitHUB" align="center" >
 
